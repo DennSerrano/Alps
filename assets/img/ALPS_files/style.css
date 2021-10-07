@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* ===================================
+            General 
+==================================== */
+*{
+ margin: 0px;
+ padding: 0px;
+box-sizing: border-box;
+}
+/* ====================================
+            Header
+=================================== */
+header{
+
+}
+
+header h2{
+color: #999;
+}
+header section{
+    background-image: url(../img/photo-1486312699619-be057cfc0342.jpeg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    margin-top: 30px;;
+}
+header h1{
+    font-family: 'Cinzel', serif;
+    color:whitesmoke;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 200px;
+}
+main section h2{
+    text-align: center;
+    padding-top:40px;
+    color: #333;
+    font-family: 'Cinzel', serif;
+}
+main section p{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    padding-top:20px;
+}
+main section div:nth-of-type(1){
+width: 50px;
+}
+main section div:nth-of-type(2){
+
+}main section div:nth-of-type(3){
+
+}main section div:nth-of-type(4){
+
+}main section div:nth-of-type(5){
+
+}main section div:nth-of-type(6){
+
+}
